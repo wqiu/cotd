@@ -1,5 +1,5 @@
 
-# COTD: Cat/City of the Day
+# COTD: Cat/City of the Day 
 
 PHP web application using JQuery Mobile that publishes a list of ordered items. 
 Each item has an image and trivia associated with it.
